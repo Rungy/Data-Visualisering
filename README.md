@@ -1,6 +1,7 @@
 <h1>Data visualisering diabetes dataset</h1>
 <br>
-<p>Detta är en visualisering av datasettet "Diabetes_prediction_dataset" skapad av Marshal Patel3558. Detta dataset har följande features</p>
+<p>Diabetes_prediction_dataset är ett hälsorelaterat dataset som innehåller information om individers demografiska data och medicinska mätvärden med syftet att förutsäga förekomsten av typ 2-diabetes. Datasetet inkluderar variabler såsom ålder, kön, BMI, blodtryck, rökvanor, blodsockernivåer och tidigare sjukdomshistoria (t.ex. högt blodtryck eller hjärtproblem). Det är särskilt användbart för maskininlärning, prediktiv analys och medicinsk visualisering.</p>
+<h3>Features &#9881;&#65039;</h3>
 <ul>
     <li>Age</li>
     <li>Sex</li>
