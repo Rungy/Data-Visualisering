@@ -15,4 +15,4 @@
 <ul>
 <br>
 <h4>Mål &#127919; </h4>
-<p>Målet med detta dataset är att enkelt kunna visualisera korrelationer mellan de olika features och vilka features som har starkast korrelation till diabetes. Ett exempel kan var hur ditt bloodtryck ökar eller minskar beroende på ålder, och om det ökar din risk för att utveckla diabetes.</p>
+<p>Målet med detta dataset är att enkelt kunna visualisera korrelationer mellan de olika features och vilka features som har starkast korrelation till diabetes. Ett exempel kan vara hur ditt bloodtryck ökar eller minskar beroende på ålder, och om det ökar din risk för att utveckla diabetes.</p>
